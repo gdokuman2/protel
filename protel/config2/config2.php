@@ -1,0 +1,1 @@
+<?php echo 'config2.php;'?>
